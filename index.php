@@ -108,12 +108,6 @@
 									<p>&#127796;&nbsp;&nbsp;<b>NYC GREENS</b> has been providing high-quality products to it's customers for 6 years now, and is continuing this dedication to quality <i>and</i> safety in light of the COVID-19 pandemic. Always feel free to reach out to a courier with any questions you might have about menu recommendations, deliveries, or discounts on larger orders...we're here to help!</p>
 								</section>
 <!--
-                                <section>
-									<h2>Service You can Trust &#128588;</h2>
-									<p>For larger quantities, please reach out to a courier directly.</p>
-								</section>
--->
-<!--
 								<section>
 									<h2>Follow me on ...</h2>
 									<ul class="icons">
@@ -133,7 +127,7 @@
 							<div>
 								<section>
 									<h2>Get in touch &#128242;</h2>
-									<form method="post" action="#">
+									<form method="post" action="submit.php">
 										<div class="fields">
 											<div class="field half">
 												<input type="text" name="name" id="name" placeholder="Name" />
