@@ -35,9 +35,16 @@
 							<h2>Sour OG - $160/O</h2>
 							<p></p>
 						</article>
+<!--
                         <article class="thumb">
-							<a href="images/fulls/unknown1.jpg" class="image"><img src="images/fulls/unknown1.jpg" alt="" /></a>
-							<h2>Silver Haze - $210/O</h2>
+							<a href="images/fulls/unknown1.jpg" class="image"><img src="images/fulls/mac%201.jpg" alt="" /></a>
+							<h2>Mac 1 - $180/O</h2>
+							<p></p>
+						</article>
+-->
+                        <article class="thumb">
+							<a href="images/fulls/christmas_tree.jpg" class="image"><img src="images/fulls/christmas_tree.jpg" alt="" /></a>
+							<h2>Blue Dream - $210/O</h2>
 							<p></p>
 						</article>
 						<article class="thumb">
@@ -47,12 +54,12 @@
 						</article>
 						<article class="thumb">
 							<a href="images/fulls/chemdawg.jpg" class="image"><img src="images/fulls/chemdawg.jpg" alt="" /></a>
-							<h2>Chemdawg - $210/O</h2>
+							<h2>Chemdawg - $210/O</h2> 
 							<p></p>
 						</article>
 						<article class="thumb">
 							<a href="images/fulls/gelato.jpg" class="image"><img src="images/fulls/gelato.jpg" alt="" /></a>
-							<h2>Gelato - $230/O</h2>
+							<h2>Gelato - $220/O</h2>
 							<p></p>
 						</article>
 						<article class="thumb">
@@ -63,11 +70,6 @@
 						<article class="thumb">
 							<a href="images/fulls/white_rhino.jpg" class="image"><img src="images/fulls/white_rhino.jpg" alt="" /></a>
 							<h2>White Rhino - $200/O</h2>
-							<p></p>
-						</article>
-						<article class="thumb">
-							<a href="images/fulls/christmas_tree.jpg" class="image"><img src="images/fulls/christmas_tree.jpg" alt="" /></a>
-							<h2>Christmas Tree - $230/O</h2>
 							<p></p>
 						</article>
 						<article class="thumb">
